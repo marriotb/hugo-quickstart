@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Congo</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Congo</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 08 Oct 2025 09:18:19 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 08 Oct 2025 09:18:19 +1100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;the-heading&#34;&gt;The heading&lt;/h1&gt;&#xA;&lt;p&gt;Just something to check things out.&lt;/p&gt;&#xA;&lt;p&gt;Maybe a list:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;first item&lt;/li&gt;&#xA;&lt;li&gt;second one&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;and-a-sub-heading&#34;&gt;And a sub-heading&lt;/h2&gt;&#xA;&lt;p&gt;With a bit of content &amp;ndash; maybe an m-dash?&lt;/p&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>
